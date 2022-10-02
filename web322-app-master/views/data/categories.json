@@ -1,22 +1,26 @@
 [
     {
         "id": 1,
-        "category": "Technology"
+        "category": "Full Stack"
     },
     {
         "id": 2,
-        "category": "Gaming"
+        "category": "Machine Learning"
     },
     {
         "id": 3,
-        "category": "Fashion"
+        "category": "Big Data"
     },
     {
         "id": 4,
-        "category": "Education"
+        "category": "Cloud"
     },
     {
         "id": 5,
-        "category": "Wellness"
+        "category": "DevOps"
+    },
+    {
+        "id": 6,
+        "category": "Blockchain"
     }
 ]
