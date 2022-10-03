@@ -19,8 +19,4 @@ app.get("/", (_, res) => {
   res.sendFile(__dirname + "/views/home.html");
 });
 
-app.get("/about", (_, res) => {
-  res.sendFIle(_dirname + "/views/about.html");
-});
-
 console.log(`Express http server listening on ${PORT}`);
